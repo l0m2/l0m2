@@ -11,7 +11,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0m2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Enoque GitHub stats](https://github-readme-stats.vercel.app/api?username=l0m2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![l0m2 GitHub stats](https://github-readme-stats.vercel.app/api?username=l0m2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Applications and Data**
 
