@@ -9,6 +9,8 @@
 - 💼 &nbsp; im free lancer
 - 🌱 &nbsp;  Always  **learning**.
 
+  <P>Practical experience and solving real-world problems are equally important for professional growth😉</P>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0m2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![l0m2 GitHub stats](https://github-readme-stats.vercel.app/api?username=l0m2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,6 +44,8 @@
  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+   
    
 
 
